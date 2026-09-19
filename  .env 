@@ -1,4 +1,4 @@
-DATABASE_URL="postgresql://postgres:postgres@localhost:5432/shopkg"
+DATABASE_URL="postgresql://neondb_owner:npg_8r0dzDcIlsRJ@ep-nameless-cloud-b5htpoel-pooler.c-7.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
 NEXTAUTH_SECRET="my-super-secret-key-change-this-in-production-12345"
 NEXTAUTH_URL="http://localhost:3000"
 NEXT_PUBLIC_APP_URL="http://localhost:3000"
